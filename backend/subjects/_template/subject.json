@@ -1,0 +1,14 @@
+{
+  "title": "Physics, Class 10 (example - copy this folder, rename it, edit)",
+  "paper_desc": "Punjab Board Class 10 Physics paper",
+  "topics":     { "motion": ["Equations of motion", "Kinematics", 1.5], "heat": ["Specific heat", "Thermal physics", 1.0] },
+  "new_topics": { },
+  "units":      { "1": ["Kinematics", 1], "2": ["Thermal physics", 20] },
+  "book":       { "motion": {"unit": 1, "section": "1.2 Equations of motion", "exercise": "1.2", "page": 8},
+                  "heat":   {"unit": 2, "section": "2.1 Specific heat", "exercise": "2.1", "page": 22} },
+  "marks":  { "o": 1, "s": 2, "l": 4, "p": 8 },
+  "choice": { "o": 1, "s": 0.667, "l": 0.5, "p": 1 },
+  "caps":   { "s": 6, "l": 4 },
+  "exam_total": 75,
+  "expected_counts": { "o": 15, "s": 27, "l": 8, "p": 1 }
+}

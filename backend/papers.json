@@ -1,0 +1,2193 @@
+[
+ {
+  "year": 2015,
+  "group": 1,
+  "items": [
+   {
+    "slot": "o",
+    "q": "1.1",
+    "topic": "ineq_solve",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.2",
+    "topic": "coord_pair",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.3",
+    "topic": "mat_det",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.4",
+    "topic": "cplx_i_power",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.5",
+    "topic": "log_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.6",
+    "topic": "surd_conj",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.7",
+    "topic": "factor_quad",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.8",
+    "topic": "sqrt_factor",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.9",
+    "topic": "area_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.10",
+    "topic": "parallelogram_props",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.11",
+    "topic": "tri_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.12",
+    "topic": "tri_angle_sum",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.13",
+    "topic": "parallelogram_props",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.14",
+    "topic": "geo_symbols",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.15",
+    "topic": "ratio_prop_def",
+    "marks": 1
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "exp_simplify",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "cplx_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_solve",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "rational_expr",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "sci_notation",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_cubes",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_thm",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "sqrt_factor",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "radical_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "abs_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "coord_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "mx_c",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "distance",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "midpoint",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "parallelogram_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "triangle_inequality",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "concurrency_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_triangle",
+    "marks": 2
+   },
+   {
+    "slot": "l",
+    "q": "5-8.1",
+    "topic": "mat_solve",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.2",
+    "topic": "exp_simplify",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.3",
+    "topic": "log_table",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.4",
+    "topic": "rational_expr",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.5",
+    "topic": "factor_thm",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.6",
+    "topic": "rational_expr",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.7",
+    "topic": "linear_eq",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.8",
+    "topic": "constr_triangle",
+    "marks": 4
+   },
+   {
+    "slot": "p",
+    "q": "9",
+    "topic": "thm_bisect_or_area",
+    "marks": 8
+   }
+  ],
+  "source": "manual_seed"
+ },
+ {
+  "year": 2016,
+  "group": 1,
+  "items": [
+   {
+    "slot": "o",
+    "q": "1.1",
+    "topic": "perfect_square_k",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.2",
+    "topic": "hcf_lcm",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.3",
+    "topic": "ineq_solve",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.4",
+    "topic": "coord_quadrant",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.5",
+    "topic": "mat_ops",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.6",
+    "topic": "cplx_ops",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.7",
+    "topic": "log_laws",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.8",
+    "topic": "surd_conj",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.9",
+    "topic": "bisector_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.10",
+    "topic": "ratio_prop_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.11",
+    "topic": "area_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.12",
+    "topic": "tri_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.13",
+    "topic": "distance",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.14",
+    "topic": "tri_angle_sum",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.15",
+    "topic": "parallelogram_props",
+    "marks": 1
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "real_prop",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "cplx_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_solve",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "surd_conj",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "rational_expr",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_quad",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "hcf_lcm",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "linear_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "radical_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "coord_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "mx_c",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "distance",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "tri_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "concurrency_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "proportional_sides",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_basic",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "parallelogram_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_triangle",
+    "marks": 2
+   },
+   {
+    "slot": "l",
+    "q": "5-8.1",
+    "topic": "mat_solve",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.2",
+    "topic": "exp_simplify",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.3",
+    "topic": "log_table",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.4",
+    "topic": "alg_identity",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.5",
+    "topic": "factor_thm",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.6",
+    "topic": "hcf_lcm",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.7",
+    "topic": "abs_eq",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.8",
+    "topic": "constr_triangle",
+    "marks": 4
+   },
+   {
+    "slot": "p",
+    "q": "9",
+    "topic": "thm_bisect_or_area",
+    "marks": 8
+   }
+  ],
+  "source": "manual_seed"
+ },
+ {
+  "year": 2018,
+  "group": 1,
+  "items": [
+   {
+    "slot": "o",
+    "q": "1.1",
+    "topic": "tri_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.2",
+    "topic": "geo_basic",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.3",
+    "topic": "parallelogram_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.4",
+    "topic": "bisector_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.5",
+    "topic": "geo_basic",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.6",
+    "topic": "area_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.7",
+    "topic": "concurrency_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.8",
+    "topic": "mat_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.9",
+    "topic": "exp_simplify",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.10",
+    "topic": "log_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.11",
+    "topic": "surd_conj",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.12",
+    "topic": "factor_quad",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.13",
+    "topic": "hcf_lcm",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.14",
+    "topic": "ineq_solve",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.15",
+    "topic": "coord_quadrant",
+    "marks": 1
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "exp_simplify",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "cplx_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_solve",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "sci_notation",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "rational_expr",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "surd_conj",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_quad",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "hcf_lcm",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "radical_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "abs_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "coord_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "graph_plot",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "distance",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "midpoint",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "tri_angle_sum",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "tri_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "ratio_prop_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "proportional_sides",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "ratio_prop_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "parallelogram_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "concurrency_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_triangle",
+    "marks": 2
+   },
+   {
+    "slot": "l",
+    "q": "5-8.1",
+    "topic": "mat_solve",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.2",
+    "topic": "exp_simplify",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.3",
+    "topic": "log_table",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.4",
+    "topic": "alg_identity",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.5",
+    "topic": "factor_cubes",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.6",
+    "topic": "sqrt_division",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.7",
+    "topic": "linear_eq",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.8",
+    "topic": "constr_triangle",
+    "marks": 4
+   },
+   {
+    "slot": "p",
+    "q": "9",
+    "topic": "thm_bisect_or_area",
+    "marks": 8
+   }
+  ],
+  "source": "manual_seed"
+ },
+ {
+  "year": 2019,
+  "group": 1,
+  "items": [
+   {
+    "slot": "o",
+    "q": "1.1",
+    "topic": "mat_order",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.2",
+    "topic": "real_prop",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.3",
+    "topic": "log_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.4",
+    "topic": "surd_conj",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.5",
+    "topic": "factor_quad",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.6",
+    "topic": "hcf_lcm",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.7",
+    "topic": "ineq_solve",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.8",
+    "topic": "coord_quadrant",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.9",
+    "topic": "midpoint",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.10",
+    "topic": "tri_angle_sum",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.11",
+    "topic": "concurrency_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.12",
+    "topic": "bisector_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.13",
+    "topic": "congruent_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.14",
+    "topic": "area_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.15",
+    "topic": "tri_types",
+    "marks": 1
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "real_prop",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "real_prop",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_solve",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "rational_expr",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "alg_identity",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_quad",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "sqrt_factor",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "radical_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "abs_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "mx_c",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "coord_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "distance",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "midpoint",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "parallelogram_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "triangle_inequality",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "proportional_sides",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_triangle",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "concurrency_defs",
+    "marks": 2
+   },
+   {
+    "slot": "l",
+    "q": "5-8.1",
+    "topic": "mat_solve",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.2",
+    "topic": "exp_simplify",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.3",
+    "topic": "log_table",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.4",
+    "topic": "alg_identity",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.5",
+    "topic": "factor_thm",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.6",
+    "topic": "hcf_lcm",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.7",
+    "topic": "radical_eq",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.8",
+    "topic": "constr_triangle",
+    "marks": 4
+   },
+   {
+    "slot": "p",
+    "q": "9",
+    "topic": "thm_bisect_or_area",
+    "marks": 8
+   }
+  ],
+  "source": "manual_seed"
+ },
+ {
+  "year": 2023,
+  "group": 1,
+  "items": [
+   {
+    "slot": "o",
+    "q": "1.1",
+    "topic": "ineq_solve",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.2",
+    "topic": "coord_pair",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.3",
+    "topic": "distance",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.4",
+    "topic": "congruent_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.5",
+    "topic": "parallelogram_props",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.6",
+    "topic": "bisector_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.7",
+    "topic": "congruent_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.8",
+    "topic": "area_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.9",
+    "topic": "concurrency_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.10",
+    "topic": "mat_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.11",
+    "topic": "cplx_i_power",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.12",
+    "topic": "log_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.13",
+    "topic": "surd_conj",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.14",
+    "topic": "factor_quad",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.15",
+    "topic": "hcf_lcm",
+    "marks": 1
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "cplx_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "exp_simplify",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "sci_notation",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_solve",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "rational_expr",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "exp_simplify",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_quad",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "sqrt_factor",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "radical_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "abs_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "mx_c",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "graph_plot",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "tri_types",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "midpoint",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "parallelogram_props",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "triangle_inequality",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "ratio_prop_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "proportional_sides",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "concurrency_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_triangle",
+    "marks": 2
+   },
+   {
+    "slot": "l",
+    "q": "5-8.1",
+    "topic": "mat_ops",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.2",
+    "topic": "exp_simplify",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.3",
+    "topic": "log_table",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.4",
+    "topic": "alg_identity",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.5",
+    "topic": "factor_thm",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.6",
+    "topic": "sqrt_division",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.7",
+    "topic": "ineq_solve",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.8",
+    "topic": "constr_triangle",
+    "marks": 4
+   },
+   {
+    "slot": "p",
+    "q": "9",
+    "topic": "thm_bisect_or_area",
+    "marks": 8
+   }
+  ],
+  "source": "manual_seed"
+ },
+ {
+  "year": 2024,
+  "group": 1,
+  "items": [
+   {
+    "slot": "o",
+    "q": "1.1",
+    "topic": "mat_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.2",
+    "topic": "radical_form",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.3",
+    "topic": "log_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.4",
+    "topic": "factor_cubes",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.5",
+    "topic": "factor_quad",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.6",
+    "topic": "hcf_lcm",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.7",
+    "topic": "ineq_solve",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.8",
+    "topic": "coord_pair",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.9",
+    "topic": "distance",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.10",
+    "topic": "tri_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.11",
+    "topic": "parallelogram_props",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.12",
+    "topic": "geo_symbols",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.13",
+    "topic": "congruent_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.14",
+    "topic": "concurrency_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.15",
+    "topic": "bisector_defs",
+    "marks": 1
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_det",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "exp_simplify",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "cplx_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_laws",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "surd_conj",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "surd_conj",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_quad",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_cubes",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "hcf_lcm",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "abs_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "ineq_solve",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "mx_c",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "coord_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "distance",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "midpoint",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "parallelogram_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "triangle_inequality",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "proportional_sides",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "concurrency_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_triangle",
+    "marks": 2
+   },
+   {
+    "slot": "l",
+    "q": "5-8.1",
+    "topic": "mat_solve",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.2",
+    "topic": "exp_simplify",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.3",
+    "topic": "log_table",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.4",
+    "topic": "alg_identity",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.5",
+    "topic": "factor_thm",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.6",
+    "topic": "perfect_square_k",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.7",
+    "topic": "linear_eq",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.8",
+    "topic": "constr_triangle",
+    "marks": 4
+   },
+   {
+    "slot": "p",
+    "q": "9",
+    "topic": "thm_bisect_or_area",
+    "marks": 8
+   }
+  ],
+  "source": "manual_seed"
+ },
+ {
+  "year": 2024,
+  "group": 2,
+  "items": [
+   {
+    "slot": "o",
+    "q": "1.1",
+    "topic": "perfect_square_k",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.2",
+    "topic": "sqrt_factor",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.3",
+    "topic": "ineq_solve",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.4",
+    "topic": "mx_c",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.5",
+    "topic": "tri_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.6",
+    "topic": "congruent_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.7",
+    "topic": "parallelogram_props",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.8",
+    "topic": "geo_basic",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.9",
+    "topic": "geo_basic",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.10",
+    "topic": "concurrency_defs",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.11",
+    "topic": "tri_types",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.12",
+    "topic": "mat_order",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.13",
+    "topic": "exp_simplify",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.14",
+    "topic": "log_def",
+    "marks": 1
+   },
+   {
+    "slot": "o",
+    "q": "1.15",
+    "topic": "surd_conj",
+    "marks": 1
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "mat_ops",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "real_prop",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "exp_simplify",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_solve",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "log_laws",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "alg_identity",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "surd_conj",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_quad",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "2",
+    "topic": "factor_thm",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "hcf_lcm",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "abs_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "linear_eq",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "graph_plot",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "mx_c",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "distance",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "midpoint",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "congruent_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "3",
+    "topic": "parallelogram_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "bisector_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "triangle_inequality",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "ratio_prop_def",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "pythagoras",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "area_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "concurrency_defs",
+    "marks": 2
+   },
+   {
+    "slot": "s",
+    "q": "4",
+    "topic": "constr_triangle",
+    "marks": 2
+   },
+   {
+    "slot": "l",
+    "q": "5-8.1",
+    "topic": "mat_solve",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.2",
+    "topic": "exp_simplify",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.3",
+    "topic": "log_table",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.4",
+    "topic": "alg_identity",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.5",
+    "topic": "factor_quad",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.6",
+    "topic": "perfect_square_k",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.7",
+    "topic": "linear_eq",
+    "marks": 4
+   },
+   {
+    "slot": "l",
+    "q": "5-8.8",
+    "topic": "constr_triangle",
+    "marks": 4
+   },
+   {
+    "slot": "p",
+    "q": "9",
+    "topic": "thm_bisect_or_area",
+    "marks": 8
+   }
+  ],
+  "source": "manual_seed"
+ }
+]
