@@ -20,7 +20,7 @@ Triage is built to work for exam subjects in general. This demo runs on **sample
 ## Screenshots
 | | |
 |---|---|
-| ![Landing page](1-landing.png) **Landing page** | ![How it works](2-how-it-works.png) **How it works** (paper upload is marked "coming soon") |
+| ![Landing page](1-landing.png) **Landing page** | ![How it works](2-how-it-works.png) **How it works**  |
 | ![Topic board](3-topic-board.png) **Topic board:** Lock It In, Handle With Care, Park It | ![Hours slider](4-hours-slider.png) **Focused plan:** choose the hours left |
 
 ![Study blocks](5-study-blocks.png)
